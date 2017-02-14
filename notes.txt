@@ -1,0 +1,16 @@
+- From Francesco Saverio Zuppichini
+ https://pub.scotch.io/@zuppif/create-a-basic-stop-watch-with-electron-and-react
+
+ - Electron is an open-source framework. It allows the development of desktop GUI applications using the Node.js runtime and the Chromium web browser.
+
+ - package.json
+  We'll be using Electron, React and Webpack.
+  Webpack
+  a)"watch", runs Webpack in, obviously, watch mode to re-compile on change our bundle.
+  b)"build", builds the application
+  c)"app", starts Electron and displays the application.
+
+  # build the application with webpack for the first time
+  $ npm run build
+  # display the application with Electron
+  $ npm run app
