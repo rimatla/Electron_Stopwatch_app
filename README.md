@@ -1,4 +1,4 @@
-# Electron - Stopwatch App.
+# Electron - [Stopwatch App](http://rimatlaelectronstopwatch.surge.sh/)
 
 ## Tech:
 ##### - ELECTRON
@@ -7,4 +7,4 @@
 ##### - Webpack
 ##### - Material Design
 
-![alt text](appimg.png?raw=true "app image")
+![alt text](watchapp.PNG?raw=true "app image")
