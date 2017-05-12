@@ -7,4 +7,4 @@
 ##### - Webpack
 ##### - Material Design
 
-![alt text](watchapp.PNG?raw=true "app image")
+![alt text](img/watchapp.PNG?raw=true "app image")
